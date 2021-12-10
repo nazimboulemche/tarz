@@ -1,0 +1,41 @@
+# The GameBot
+Created with Tarz this GameBot helps you find pleanty of diffefrent video games 
+
+## Installation
+This website is created with the latest HTML5 and CSS3 version 
+
+## Usage
+This is The Main Page 
+```
+<!DOCTYPE html>
+<html >
+    <head>
+        <meta charset="UTF-8" />
+        <link rel="stylesheet" href="gamebot.css" type=text/css>
+        <style>
+            body {
+              background-image: url(bg.jpg);
+            }
+            </style>
+    </head>
+    <body >
+        <div id="title"> <h1>GameBot</h1h> </div>
+            <script>
+             (function(){var js,fs,d=document,id="tars-widget-script",b="https://tars-file-upload.s3.amazonaws.com/bulb/";
+             if(!d.getElementById(id)){js=d.createElement("script");js.id=id;
+             js.type="text/javascript";js.src=b+"js/widget.js";fs=d.getElementsByTagName("script")[0];
+             fs.parentNode.insertBefore(js,fs)}})();window.tarsSettings = {"convid":"wefuvH"};
+            </script>
+          
+    </body>
+</html>
+```
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+Change this website using your own vision.
+
+## Credit 
+Created with passion and love
