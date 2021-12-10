@@ -1,6 +1,10 @@
 # The GameBot
 This GameBot is created with Tarz, its role is to help you find pleanty of different video games by Genre or Platform 
 
+## Demo 
+
+https://user-images.githubusercontent.com/70896734/145611279-bd16a9e3-7ec6-4261-be8d-fe75a6299e6c.mp4
+
 ## Installation
 This website is created with the latest HTML5 and CSS3 version 
 
